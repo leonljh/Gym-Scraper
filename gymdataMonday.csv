@@ -1,0 +1,121 @@
+,Gym,Occupancy,Queue Length,Time
+0,Bishan,Full,43,Mon Oct 19 18:30:49 2020
+1,Century Square,Full,37,Mon Oct 19 18:30:49 2020
+2,JCube,High,25,Mon Oct 19 18:30:49 2020
+3,Keat Hong,Full,16,Mon Oct 19 18:30:49 2020
+4,Kebun Baru,High,0,Mon Oct 19 18:30:49 2020
+5,Bedok Point,High,19,Mon Oct 19 18:30:49 2020
+0,Bishan,Full,49,Mon Oct 19 18:40:49 2020
+1,Century Square,Full,43,Mon Oct 19 18:40:49 2020
+2,JCube,High,19,Mon Oct 19 18:40:49 2020
+3,Keat Hong,Full,19,Mon Oct 19 18:40:49 2020
+4,Kebun Baru,High,0,Mon Oct 19 18:40:49 2020
+5,Bedok Point,High,16,Mon Oct 19 18:40:49 2020
+0,Bishan,Full,55,Mon Oct 19 18:50:49 2020
+1,Century Square,Full,48,Mon Oct 19 18:50:49 2020
+2,JCube,High,24,Mon Oct 19 18:50:49 2020
+3,Keat Hong,Full,26,Mon Oct 19 18:50:49 2020
+4,Kebun Baru,High,0,Mon Oct 19 18:50:49 2020
+5,Bedok Point,High,19,Mon Oct 19 18:50:49 2020
+0,Bishan,Full,48,Mon Oct 19 19:00:49 2020
+1,Century Square,Full,50,Mon Oct 19 19:00:49 2020
+2,JCube,Full,30,Mon Oct 19 19:00:49 2020
+3,Keat Hong,Full,31,Mon Oct 19 19:00:49 2020
+4,Kebun Baru,High,0,Mon Oct 19 19:00:49 2020
+5,Bedok Point,High,16,Mon Oct 19 19:00:49 2020
+0,Bishan,Full,48,Mon Oct 19 19:10:49 2020
+1,Century Square,Full,52,Mon Oct 19 19:10:49 2020
+2,JCube,Full,32,Mon Oct 19 19:10:49 2020
+3,Keat Hong,Full,22,Mon Oct 19 19:10:49 2020
+4,Kebun Baru,High,0,Mon Oct 19 19:10:49 2020
+5,Bedok Point,High,13,Mon Oct 19 19:10:49 2020
+0,Bishan,Full,43,Mon Oct 19 19:20:49 2020
+1,Century Square,Full,46,Mon Oct 19 19:20:49 2020
+2,JCube,High,29,Mon Oct 19 19:20:49 2020
+3,Keat Hong,Full,17,Mon Oct 19 19:20:49 2020
+4,Kebun Baru,Full,1,Mon Oct 19 19:20:49 2020
+5,Bedok Point,High,21,Mon Oct 19 19:20:49 2020
+0,Bishan,Full,41,Mon Oct 19 19:30:49 2020
+1,Century Square,Full,47,Mon Oct 19 19:30:49 2020
+2,JCube,Full,33,Mon Oct 19 19:30:49 2020
+3,Keat Hong,Full,14,Mon Oct 19 19:30:49 2020
+4,Kebun Baru,Full,2,Mon Oct 19 19:30:49 2020
+5,Bedok Point,High,24,Mon Oct 19 19:30:49 2020
+0,Bishan,Full,41,Mon Oct 19 19:40:51 2020
+1,Century Square,Full,44,Mon Oct 19 19:40:51 2020
+2,JCube,Full,38,Mon Oct 19 19:40:51 2020
+3,Keat Hong,Full,14,Mon Oct 19 19:40:51 2020
+4,Kebun Baru,Full,0,Mon Oct 19 19:40:51 2020
+5,Bedok Point,High,25,Mon Oct 19 19:40:51 2020
+0,Bishan,Full,39,Mon Oct 19 19:50:51 2020
+1,Century Square,Full,42,Mon Oct 19 19:50:51 2020
+2,JCube,Full,40,Mon Oct 19 19:50:51 2020
+3,Keat Hong,Full,22,Mon Oct 19 19:50:51 2020
+4,Kebun Baru,Full,1,Mon Oct 19 19:50:51 2020
+5,Bedok Point,High,26,Mon Oct 19 19:50:51 2020
+0,Bishan,Full,37,Mon Oct 19 20:00:51 2020
+1,Century Square,Full,43,Mon Oct 19 20:00:51 2020
+2,JCube,Full,40,Mon Oct 19 20:00:51 2020
+3,Keat Hong,Full,24,Mon Oct 19 20:00:51 2020
+4,Kebun Baru,High,0,Mon Oct 19 20:00:51 2020
+5,Bedok Point,High,27,Mon Oct 19 20:00:51 2020
+0,Bishan,Full,35,Mon Oct 19 20:10:51 2020
+1,Century Square,Full,40,Mon Oct 19 20:10:51 2020
+2,JCube,Full,41,Mon Oct 19 20:10:51 2020
+3,Keat Hong,Full,25,Mon Oct 19 20:10:51 2020
+4,Kebun Baru,High,0,Mon Oct 19 20:10:51 2020
+5,Bedok Point,High,29,Mon Oct 19 20:10:51 2020
+0,Bishan,Full,31,Mon Oct 19 20:20:51 2020
+1,Century Square,Full,38,Mon Oct 19 20:20:51 2020
+2,JCube,Full,39,Mon Oct 19 20:20:51 2020
+3,Keat Hong,Full,18,Mon Oct 19 20:20:51 2020
+4,Kebun Baru,Full,3,Mon Oct 19 20:20:51 2020
+5,Bedok Point,High,25,Mon Oct 19 20:20:51 2020
+0,Bishan,Full,27,Mon Oct 19 20:30:51 2020
+1,Century Square,Full,34,Mon Oct 19 20:30:51 2020
+2,JCube,Full,36,Mon Oct 19 20:30:51 2020
+3,Keat Hong,Full,9,Mon Oct 19 20:30:51 2020
+4,Kebun Baru,Full,3,Mon Oct 19 20:30:51 2020
+5,Bedok Point,High,29,Mon Oct 19 20:30:51 2020
+0,Bishan,Full,20,Mon Oct 19 20:40:51 2020
+1,Century Square,Full,25,Mon Oct 19 20:40:51 2020
+2,JCube,Full,34,Mon Oct 19 20:40:51 2020
+3,Keat Hong,Full,14,Mon Oct 19 20:40:51 2020
+4,Kebun Baru,Full,10,Mon Oct 19 20:40:51 2020
+5,Bedok Point,High,18,Mon Oct 19 20:40:51 2020
+0,Bishan,Full,18,Mon Oct 19 20:50:51 2020
+1,Century Square,Full,15,Mon Oct 19 20:50:51 2020
+2,JCube,Full,23,Mon Oct 19 20:50:51 2020
+3,Keat Hong,Full,11,Mon Oct 19 20:50:51 2020
+4,Kebun Baru,Full,15,Mon Oct 19 20:50:51 2020
+5,Bedok Point,High,5,Mon Oct 19 20:50:51 2020
+0,Bishan,Full,16,Mon Oct 19 21:00:51 2020
+1,Century Square,Full,11,Mon Oct 19 21:00:51 2020
+2,JCube,Full,18,Mon Oct 19 21:00:51 2020
+3,Keat Hong,Full,14,Mon Oct 19 21:00:51 2020
+4,Kebun Baru,Full,14,Mon Oct 19 21:00:51 2020
+5,Bedok Point,High,2,Mon Oct 19 21:00:51 2020
+0,Bishan,Full,13,Mon Oct 19 21:10:51 2020
+1,Century Square,Full,5,Mon Oct 19 21:10:51 2020
+2,JCube,Full,10,Mon Oct 19 21:10:51 2020
+3,Keat Hong,Full,23,Mon Oct 19 21:10:51 2020
+4,Kebun Baru,Full,9,Mon Oct 19 21:10:51 2020
+5,Bedok Point,Full,0,Mon Oct 19 21:10:51 2020
+0,Bishan,Full,7,Mon Oct 19 21:20:51 2020
+1,Century Square,Full,4,Mon Oct 19 21:20:51 2020
+2,JCube,Full,7,Mon Oct 19 21:20:51 2020
+3,Keat Hong,Full,21,Mon Oct 19 21:20:51 2020
+4,Kebun Baru,Full,7,Mon Oct 19 21:20:51 2020
+5,Bedok Point,Full,5,Mon Oct 19 21:20:51 2020
+0,Bishan,Full,0,Mon Oct 19 21:30:51 2020
+1,Century Square,Full,7,Mon Oct 19 21:30:51 2020
+2,JCube,Full,6,Mon Oct 19 21:30:51 2020
+3,Keat Hong,Full,14,Mon Oct 19 21:30:51 2020
+4,Kebun Baru,Full,6,Mon Oct 19 21:30:51 2020
+5,Bedok Point,Full,6,Mon Oct 19 21:30:51 2020
+0,Bishan,High,0,Mon Oct 19 21:40:51 2020
+1,Century Square,Full,7,Mon Oct 19 21:40:51 2020
+2,JCube,Full,6,Mon Oct 19 21:40:51 2020
+3,Keat Hong,Full,12,Mon Oct 19 21:40:51 2020
+4,Kebun Baru,Full,3,Mon Oct 19 21:40:51 2020
+5,Bedok Point,Full,0,Mon Oct 19 21:40:51 2020
